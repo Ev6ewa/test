@@ -1,0 +1,136 @@
+---
+name: hanna
+age: 23
+status: friend
+piercings:
+  ears:
+    outfits:
+    - date
+    pierced: true
+  navel:
+    outfits:
+    - naked
+    - swimsuit
+    - sexyswimsuit
+    - underwear
+    - sport
+    pierced: true
+  clit:
+    outfits:
+    - naked
+  nipples:
+    outfits:
+    - naked
+  tongue:
+    expressions:
+    - happy
+  nose:
+    pierced: true
+birthday:
+- fall
+- 30
+pubes: false
+traits:
+- sportsy
+- rebel
+desire_factors:
+- fitness
+- fitness
+- park
+- waterpark
+- not_nightclub
+schedule:
+  default:
+    '1234':
+      '17':
+      - room: gym
+        activity: train
+        clothes: sport
+      '19':
+      - room: park
+        activity: train
+        clothes: sport
+        desc: Hanna is running.
+      '24':
+      - room: none
+        activity: None
+        clothes: underwear
+    '5':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '11':
+      - room: gym
+        activity: train
+        clothes: sport
+        desc: Hanna is working out.
+      - room: park
+        activity: train
+        clothes: sport
+        desc: Hanna is running.
+      '14':
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Hanna is drinking juice.
+      '16':
+      - room: gym
+        activity: train
+        clothes: sport
+        desc: Hanna is working out.
+      - room: park
+        activity: train
+        clothes: sport
+        desc: Hanna is running.
+      '23':
+      - room: none
+        activity: None
+        clothes: underwear
+    '6':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '11':
+      - room: gym
+        activity: train
+        clothes: sport
+        desc: Hanna is working out.
+      - room: park
+        activity: train
+        clothes: sport
+        desc: Hanna is running.
+      '14':
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Hanna is jogging around the park.
+      '18':
+      - room: gym
+        activity: train
+        clothes: sport
+        desc: Hanna is working out.
+      - room: park
+        activity: train
+        clothes: sport
+        desc: Hanna is running.
+      '23':
+      - room: None
+        activity: None
+        clothes: underwear
+    '7':
+      '10':
+      - room: None
+        activity: None
+        clothes: underwear
+      '18':
+      - room: park
+        activity: train
+        clothes: sport
+        desc: Hanna is running.
+      '23':
+      - room: None
+        activity: None
+        clothes: underwear
+

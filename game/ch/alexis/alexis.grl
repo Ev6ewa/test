@@ -1,0 +1,141 @@
+---
+name: alexis
+age: 25
+status: ex-girlfriend
+piercings:
+  ears:
+    outfits:
+    - date
+    pierced: true
+  navel:
+    outfits:
+    - naked
+    - sexyswimsuit
+    - underwear
+    - sport
+  clit:
+    outfits:
+    - naked
+  nipples:
+    outfits:
+    - naked
+  lips:
+    expressions:
+    - happy
+    - blush
+    - angry
+    - normal
+    - sad
+  nose: {}
+birthday:
+- fall
+- 1
+traits:
+- princess
+- submissive
+- bitchy
+desire_factors:
+- money
+- fitness
+- not_home
+- not_park
+schedule:
+  default:
+    '1245':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '17':
+      - room: clothesshop
+        activity: shopping
+        clothes: casual
+      '19':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+      - room: sexshop
+        activity: shop
+        clothes: casual
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      '24':
+      - room: None
+        activity: None
+        clothes: underwear
+    '6':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '11':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      '14':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      - room: beach
+        activity: swim
+        clothes: swimsuit
+        seasons: "1"
+      '16':
+      - room: beach
+        activity: swim
+        clothes: swimsuit
+        seasons: "1"
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      '18':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      '21':
+      - room: None
+        activity: None
+        clothes: underwear
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+      - room: nightclub
+        activity: dance
+        clothes: date
+        desc:
+    '7':
+      '5':
+      - room: nightclub
+        activity: dance
+        clothes: date
+        desc:
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '10':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+

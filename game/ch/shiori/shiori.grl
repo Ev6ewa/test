@@ -1,0 +1,106 @@
+---
+name: shiori
+age: 22
+status: secretary
+piercings:
+  ears:
+    outfits:
+    - date
+    pierced: true
+  navel:
+    outfits:
+    - naked
+    - swimsuit
+    - sexyswimsuit
+    - underwear
+    - sport
+    pierced: true
+  clit:
+    outfits:
+    - naked
+    pierced: true
+  nipples:
+    outfits:
+    - naked
+    pierced: true
+  tongue:
+    expressions:
+    - happy
+    - blush
+    - angry
+    pierced: true
+  nose: {}
+birthday:
+- spring
+- 23
+traits:
+- submissive
+- family
+- slutty
+desire_factors:
+- charm
+- fitness
+- money
+- livingroom
+- not_park
+schedule:
+  default:
+    '12345':
+      '8':
+      - room: None
+        activity: none
+        clothes: underwear
+      '18':
+      - room: office
+        activity: work
+        clothes: work
+    '6':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '12':
+      - room: park
+        activity: play
+        clothes: casual
+      '14':
+      - room: None
+        activity: eat
+        clothes: casual
+      '16':
+      - room: park
+        activity: play
+        clothes: casual
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      '18':
+      - room: drugstore
+        activity: shop
+        clothes: casual
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      - room: park
+        activity: play
+        clothes: casual
+      '23':
+      - room: None
+        activity: None
+        clothes: underwear
+    '7':
+      '10':
+      - room: None
+        activity: None
+        clothes: underwear
+      '18':
+      - room: park
+        activity: play
+        clothes: casual
+      '23':
+      - room: None
+        activity: None
+        clothes: casual

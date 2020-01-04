@@ -1,0 +1,462 @@
+---
+name: bree
+age: 22
+status: roommate
+birthday:
+- fall
+- 7
+piercings:
+  ears:
+    outfits:
+    - date
+    pierced: true
+  navel:
+    outfits:
+    - naked
+    - swimsuit
+    - sexyswimsuit
+    - underwear
+    - sport
+  clit:
+    outfits:
+    - naked
+  nipples:
+    outfits:
+    - naked
+  tongue:
+    expressions:
+    - happy
+    - blush
+    - angry
+  nose: {}
+traits:
+- sportsy
+- bookworm
+- playful
+- geek
+desire_factors:
+- knowledge
+- video_games
+- books
+- science fiction
+- mall
+- not_park
+schedule:
+  default:
+    '5':
+      '6':
+      - room: bedroom2
+        activity: sleep
+        clothes: underwear
+        desc:
+        - Bree seems to be dreaming in her sleep.
+      '7':
+      - room: bathroom
+        activity: shower
+        clothes: naked
+        desc:
+        - Bree is taking a shower, her skin is endearing, shiny with water.
+      - room: bathroom
+        activity: wash
+        clothes: towel
+        desc:
+        - Bree is just getting out of the shower.
+      '8':
+      - room: kitchen
+        activity: meal
+        clothes: sleep
+        desc:
+        - Bree is having her breakfast.
+      '11':
+      - room: classroom
+        activity: work
+        clothes: casual
+        desc:
+        - Bree is listening.
+      - room: university
+        activity: work
+        clothes: casual
+        desc:
+        - Bree is reading a book on neurology.
+      '13':
+      - room: dininghall
+        activity: eat_uni
+        clothes: casual
+        desc:
+        - Bree is eating.
+      '17':
+      - room: university
+        activity: work
+        clothes: casual
+        desc:
+        - Bree is reading a book on neurology.
+      - room: classroom
+        activity: work
+        clothes: casual
+        desc:
+        - Bree is listening.
+      '18':
+      - room: bookstore
+        activity: shop
+        clothes: casual
+        desc:
+        - Bree is shopping for books.
+      - room: electronic
+        activity: shop
+        clothes: casual
+        desc:
+        - Bree is looking at video games.
+      - room: livingroom
+        activity: read
+        clothes: casual
+        desc:
+        - Bree is reading a book, lying down on the couch.
+      '19':
+      - room: bedroom2
+        activity: read
+        clothes: casual
+        desc:
+        - Bree is reading a book.
+      '20':
+      - room: kitchen
+        activity: meal
+        clothes: casual
+        desc:
+        - Bree is preparing dinner.
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Bree is having a drink with some friend of her.
+      - room: bedroom2
+        activity: read
+        clothes: underwear
+        desc:
+        - Bree is reading on her bed.
+    '6':
+      '9':
+      - room: bedroom2
+        activity: sleep
+        clothes: underwear
+        desc:
+        - Bree is sleeping.
+      '10':
+      - room: bathroom
+        activity: shower
+        clothes: naked
+        desc:
+        - Bree is taking a shower.
+      - room: bathroom
+        activity: wash
+        clothes: underwear
+        desc:
+        - Bree is brushing her teeth.
+      '11':
+      - room: kitchen
+        activity: meal
+        clothes: sleep
+        desc:
+        - Bree is having her breakfast.
+      '12':
+      - room: livingroom
+        activity: play
+        clothes: sleep
+        desc:
+        - Bree is playing a game on her phone.
+      - room: kitchen
+        activity: dishes
+        clothes: sleep
+        desc:
+        - Bree is washing the dishes.
+      '14':
+      - room: gym
+        activity: train
+        clothes: sport
+        desc:
+        - Bree is doing some exercises, maybe zumba.
+      - room: arcade
+        activity: play
+        clothes: casual
+        desc:
+        - Bree is playing some video games.
+      - room: park
+        activity: run
+        clothes: sport
+        desc:
+        - Bree is jogging around the park.
+      '15':
+      - room: arcade
+        activity: play
+        clothes: casual
+        desc:
+        - Bree is playing some video games.
+      - room: electronic
+        activity: shop
+        clothes: casual
+        desc:
+        - Bree is looking at video games.
+      - room: bathroom
+        activity: wash
+        clothes: underwear
+        desc:
+      '17':
+      - room: livingroom
+        activity: read
+        clothes: casual
+        desc:
+        - Bree is reading a book on the couch.
+      - room: arcade
+        activity: play
+        clothes: casual
+        desc:
+        - Bree is playing a fighting game.
+      '19':
+      - room: bedroom2
+        activity: read
+        clothes: casual
+        desc:
+        - Bree is reading a book, lying on her bed.
+      - room: pool
+        activity: read
+        clothes: casual
+        desc:
+        - Bree is reading a book by the pool.
+      - room: arcade
+        activity: play
+        clothes: casual
+        desc:
+        - Bree is playing a fighting game.
+      '20':
+      - room: kitchen
+        activity: meal
+        clothes: casual
+        desc:
+        - Bree is having dinner.
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Bree is having a drink with some dude.
+    '7':
+      '10':
+      - room: bedroom2
+        activity: sleep
+        clothes: underwear
+        desc:
+        - Bree is sleeping.
+      '11':
+      - room: bathroom
+        activity: shower
+        clothes: naked
+        desc:
+        - Bree is having a shower.
+      - room: bedroom2
+        activity: sleep
+        clothes: underwear
+        desc:
+        - Bree is sleeping, snoring a little.
+      '12':
+      - room: kitchen
+        activity: meal
+        clothes: sleep
+        desc:
+        - Bree is having a light meal.
+      '13':
+      - room: kitchen
+        activity: dishes
+        clothes: sleep
+        desc:
+        - Bree is cleaning the dishes.
+      '17':
+      - room: pool
+        activity: sunbath
+        clothes: swimsuit
+        seasons: '01'
+        desc:
+        - Bree is sunbathing by the pool.
+      - room: livingroom
+        activity: play
+        clothes: sleep
+        seasons: '23'
+        desc:
+        - Bree is playing a game on her phone.
+      '19':
+      - room: bedroom2
+        activity: read
+        clothes: sleep
+        desc:
+        - Bree is reading a book sitting by her bed.
+      - room: park
+        activity: read
+        clothes: casual
+        desc:
+        - Bree is reading a book under a tree.
+      '20':
+      - room: kitchen
+        activity: meal
+        clothes: casual
+        desc:
+        - Bree is having dinner.
+      '21':
+      - room: kitchen
+        activity: dishes
+        clothes: casual
+        desc:
+        - Bree is washing the dishes.
+      '22':
+      - room: bathroom
+        activity: wash
+        clothes: underwear
+        desc:
+        - Bree is brushing her teeth.
+      '23':
+      - room: bedroom2
+        activity: sleep
+        clothes: underwear
+        desc:
+        - Bree is asleep.
+    '1234':
+      '6':
+      - room: bedroom2
+        activity: sleep
+        clothes: sleep
+        desc:
+        - Bree is sleeping soundly.
+      '7':
+      - room: bathroom
+        activity: shower
+        clothes: naked
+        desc:
+        - Bree is taking a shower, naked...
+      - room: bathroom
+        activity: wash
+        clothes: underwear
+        desc:
+      - room: bedroom2
+        activity: dress
+        clothes: underwear
+        desc:
+        - Bree is getting dressed.
+      '8':
+      - room: kitchen
+        activity: meal
+        clothes: sleep
+        desc:
+        - Bree is having light breakfast.
+      '9':
+      - room: livingroom
+        activity: play
+        clothes: sleep
+        desc:
+        - Bree is playing a video game on her phone.
+      '11':
+      - room: university
+        activity: work
+        clothes: casual
+        desc:
+        - Bree is studying a biology book.
+      - room: classroom
+        activity: work
+        clothes: casual
+        desc:
+        - Bree is listening.
+      - room: library
+        activity: work
+        clothes: casual
+        desc:
+        - Bree is studying a chemistry book.
+      '13':
+      - room: dininghall
+        activity: meal
+        clothes: casual
+        desc:
+        - Bree is eating.
+      '17':
+      - room: university
+        activity: work
+        clothes: casual
+        desc:
+        - Bree is studying a history book in front of the university.
+      - room: library
+        activity: work
+        clothes: casual
+        desc:
+        - Bree is studying a chemistry book.
+      - room: classroom
+        activity: work
+        clothes: casual
+        desc:
+        - Bree is listening.
+      - room: bookstore
+        activity: shop
+        clothes: casual
+        desc:
+        - Bree is shopping for books.
+      - room: pool
+        activity: read
+        clothes: swimsuit
+        seasons: '01'
+        desc:
+        - Bree is reading by the pool, wearing only a little swimsuit.
+      - room: livingroom
+        activity: read
+        clothes: casual
+        desc:
+        - Bree is reading on the couch.
+      '18':
+      - room: livingroom
+        activity: tv
+        clothes: casual
+        desc:
+        - Bree is watching the history channel.
+      '19':
+      - room: bedroom2
+        activity: read
+        clothes: casual
+        desc:
+        - Bree is reading on her bed.
+      - room: bedroom2
+        activity: read
+        clothes: casual
+        desc:
+        - Bree is reading on her bed.
+      - room: livingroom
+        activity: tv
+        clothes: casual
+        desc:
+        - Bree is watching tv.
+      '20':
+      - room: kitchen
+        activity: meal
+        clothes: casual
+        desc:
+        - Bree is eating her meal.
+      '22':
+      - room: livingroom
+        activity: read
+        clothes: sleep
+        desc:
+        - Bree is reading a book, completly absorbed.
+      - room: bedroom2
+        activity: read
+        clothes: underwear
+        desc:
+        - Bree is reading on her bed.
+      - room: livingroom
+        activity: tv
+        clothes: sleep
+        desc:
+        - Bree is watching tv.
+      '23':
+      - room: bathroom
+        activity: wash
+        clothes: underwear
+        desc:
+        - Bree is by the sink, washing herself.
+      - room: bathroom
+        activity: wash
+        clothes: underwear
+        desc:
+        - Bree is getting ready to go to bed.

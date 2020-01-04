@@ -1,0 +1,238 @@
+---
+name: anna
+age: 21
+status: friend
+flags:
+ lesbian: 10
+piercings:
+  ears:
+    outfits:
+    - date
+    pierced: true
+  navel:
+    outfits:
+    - naked
+    - swimsuit
+    - sexyswimsuit
+    - underwear
+    - sport
+    pierced: true
+  clit:
+    outfits:
+    - naked
+    pierced: true
+  nipples:
+    outfits:
+    - naked
+    pierced: true
+  tongue:
+    expressions:
+    - happy
+  nose: {}
+birthday:
+- summer
+- 26
+traits:
+- submissive
+- not_family
+- playful
+desire_factors:
+- charm
+- music
+- not_underwear
+- not_highclassrestaurant
+- concert
+schedule:
+  default:
+    '124':
+      '17':
+      - room: None
+        activity: none
+        clothes: underwear
+      '19':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Anna is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Anna is drinking coffee.
+      - room: park
+        activity: None
+        clothes: casual
+        desc: Anna lazing around.
+      '24':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Anna is having a drink.
+      - room: None
+        activity: sleep
+        clothes: underwear
+    '35':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '11':
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Anna is drinking coffee.
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Anna is browsing through the clothes.
+      - room: park
+        activity: None
+        clothes: casual
+        desc: Anna lazing around.
+      '14':
+      - room: park
+        activity: None
+        clothes: casual
+        desc: Anna is lazing around.
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Anna is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Anna is drinking coffee.
+      '16':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Anna is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Anna is drinking coffee.
+      - room: park
+        activity: None
+        clothes: casual
+        desc: Anna is lazing around.
+      '17':
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Anna is drinking coffee.
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Anna is browsing through the clothes.
+      - room: park
+        activity: None
+        clothes: casual
+        desc: Anna is lazing around.
+      '20':
+      - room: studio
+        activity: practice
+        clothes: casual
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+      - room: None
+        activity: sleep
+        clothes: underwear
+    '6':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '11':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Anna is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Anna is drinking a coffee.
+      - room: park
+        activity: None
+        clothes: casual
+        desc: Anna lazing around.
+      '14':
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Anna is drinking coffee.
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Anna is browsing through the clothes.
+      - room: park
+        activity: None
+        clothes: casual
+        desc: Anna is lazing around.
+      '16':
+      - room: park
+        activity: None
+        clothes: casual
+        desc: Anna is lazing around.
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Anna is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Anna is drinking coffee.
+      '18':
+      - room: drugstore
+        activity: shop
+        clothes: casual
+        desc:
+        - Anna is shopping.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Anna is drinking coffee.
+      - room: park
+        activity: None
+        clothes: casual
+        desc: Anna is lazing around.
+      '21':
+      - room: None
+        activity: None
+        clothes: underwear
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Anna is drinking.
+    '7':
+      '5':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '10':
+      - room: None
+        activity: None
+        clothes: underwear
+      '18':
+      - room: park
+        activity: None
+        clothes: casual
+        desc: Anna is lazing around.
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Anna seems to be having fun.
+

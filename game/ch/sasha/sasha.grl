@@ -1,0 +1,222 @@
+---
+name: sasha
+age: 23
+status: roommate
+min_sub: -100
+birthday:
+- spring
+- 21
+flags:
+ lesbian: 5
+piercings:
+  ears:
+    outfits:
+    - date
+    pierced: true
+  navel:
+    outfits:
+    - naked
+    - swimsuit
+    - sexyswimsuit
+    - underwear
+    - sport
+  clit:
+    outfits:
+    - naked
+  nipples:
+    outfits:
+    - naked
+  tongue:
+    expressions:
+    - happy
+    - blush
+    - angry
+  nose: {}
+traits:
+- dominant
+- submissive
+- rebel
+- guitar
+desire_factors:
+- fitness
+- guitar
+- not_cooking
+- horror
+- not_mall
+schedule:
+  default:
+    '35':
+      '7':
+      - room: bedroom3
+        activity: sleep
+        clothes: underwear
+      '8':
+      - room: bathroom
+        activity: shower
+        clothes: naked
+      - room: bedroom3
+        activity: sleep
+        clothes: underwear
+      '9':
+      - room: bathroom
+        activity: wash
+        clothes: towel
+      - room: kitchen
+        activity: meal
+        clothes: sleep
+      '17':
+      - room: clothesshop
+        activity: work
+        clothes: casual
+      '20':
+      - room: studio
+        activity: practicing
+        clothes: casual
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+    '6':
+      '0':
+      - room: bathroom
+        activity: wash
+        clothes: underwear
+      '11':
+      - room: bedroom3
+        activity: sleep
+        clothes: underwear
+      '12':
+      - room: bathroom
+        activity: shower
+        clothes: naked
+      '13':
+      - room: kitchen
+        activity: meal
+        clothes: sleep
+      '17':
+      - room: pool
+        activity: sunbath
+        clothes: swimsuit
+        seasons: '01'
+      - room: clothesshop
+        activity: work
+        clothes: casual
+      - room: sexshop
+        activity: shop
+        clothes: casual
+      - room: waterpark
+        activity: sunbath
+        clothes: swimsuit
+        seasons: '01'
+      - room: mall
+        activity: shop
+        clothes: casual
+      '19':
+      - room: bedroom3
+        activity: music
+        clothes: casual
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+    '7':
+      '5':
+      - room: nightclub
+        activity: dance
+        clothes: date
+      - room: bedroom3
+        activity: sleep
+        clothes: underwear
+      '12':
+      - room: bedroom3
+        activity: sleep
+        clothes: underwear
+      '13':
+      - room: bathroom
+        activity: shower
+        clothes: naked
+      '14':
+      - room: kitchen
+        activity: meal
+        clothes: sleep
+      '16':
+      - room: pool
+        activity: sunbath
+        clothes: swimsuit
+        seasons: '01'
+      - room: livingroom
+        activity: tv
+        clothes: casual
+        seasons: '23'
+      '19':
+      - room: livingroom
+        activity: tv
+        clothes: casual
+      '20':
+      - room: kitchen
+        activity: meal
+        clothes: casual
+      '23':
+      - room: bedroom3
+        activity: sleep
+        clothes: underwear
+    '124':
+      '7':
+      - room: bedroom3
+        activity: sleep
+        clothes: underwear
+      '8':
+      - room: bathroom
+        activity: shower
+        clothes: naked
+      - room: bedroom3
+        activity: dress
+        clothes: underwear
+      '9':
+      - room: kitchen
+        activity: meal
+        clothes: sleep
+      '17':
+      - room: clothesshop
+        activity: work
+        clothes: casual
+      '18':
+      - room: pool
+        activity: sunbath
+        clothes: swimsuit
+        seasons: '01'
+      - room: waterpark
+        activity: sunbath
+        clothes: swimsuit
+        seasons: '01'
+      - room: mall
+        activity: shop
+        clothes: casual
+      '19':
+      - room: livingroom
+        activity: tv
+        clothes: casual
+      '20':
+      - room: kitchen
+        activity: meal
+        clothes: casual
+      '22':
+      - room: bedroom3
+        activity: music
+        clothes: casual
+      - room: livingroom
+        activity: tv
+        clothes: sleep
+      - room: pub
+        activity: drink
+        clothes: casual
+      - room: bathroom
+        activity: wash
+        clothes: sleep
+      '23':
+      - room: bathroom
+        activity: wash
+        clothes: sleep
+      - room: bedroom3
+        activity: sleep
+        clothes: underwear

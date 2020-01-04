@@ -1,0 +1,175 @@
+---
+name: aletta
+age: 32
+status: boss
+min_sub: -100
+piercings:
+  ears:
+    outfits:
+    - date
+    pierced: true
+  navel:
+    outfits:
+    - naked
+    - swimsuit
+    - sexyswimsuit
+    - underwear
+    - sport
+  clit:
+    outfits:
+    - naked
+  nipples:
+    outfits:
+    - naked
+  tongue:
+    expressions:
+    - happy
+  lips:
+    expressions:
+    - happy
+    - angry
+    - blush
+    - normal
+    - sad
+  nose: {}
+birthday:
+- winter
+- 14
+traits:
+- dominant
+- not_family
+desire_factors:
+- shooting
+- shooting
+- charm
+- not_cinema
+- not_sweets
+- not_home
+- not_home
+- career
+- highclassrestaurant
+schedule:
+  default:
+    '1245':
+      '8':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '19':
+      - room: alettaoffice
+        activity: work
+        clothes: work
+        desc:
+        - Aletta is working.
+      '24':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Aletta is a having a drink.
+      - room: None
+        activity: None
+        clothes: underwear
+    '6':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '18':
+      - room: alettaoffice
+        activity: work
+        clothes: work
+        desc: Aletta is working.
+      '21':
+      - room: None
+        activity: None
+        clothes: underwear
+      '22':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Aletta is a little tipsy.
+      '23':
+      - room: nightclub
+        activity: dance
+        clothes: date
+        desc:
+        - Aletta is dancing.
+    '7':
+      '5':
+      - room: nightclub
+        activity: dance
+        clothes: date
+        desc:
+        - Aletta is dancing.
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '10':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '12':
+      - room: gym
+        activity: train
+        clothes: sport
+        desc: Aletta is working out.
+      - room: beach
+        activity: swim
+        clothes: swimsuit
+        seasons: "1"
+        desc: Aletta is swimming in the pool.
+      - room: park
+        activity: run
+        clothes: sport
+        desc: Aletta is jogging around the park.
+      '14':
+      - room: beach
+        activity: swim
+        clothes: swimsuit
+        seasons: "1"
+        desc: Aletta is swimming in the pool.
+      - room: gym
+        activity: train
+        clothes: sport
+        desc: Aletta is working out.
+      - room: park
+        activity: run
+        clothes: sport
+        desc: Aletta is jogging around the park.
+      '16':
+      - room: park
+        activity: run
+        clothes: sport
+        desc: Aletta is jogging around the park.
+      - room: gym
+        activity: train
+        clothes: sport
+        desc: Aletta is working out.
+      - room: beach
+        activity: swim
+        clothes: swimsuit
+        seasons: "1"
+        desc: Aletta is swimming in the pool.
+      '18':
+      - room: gym
+        activity: train
+        clothes: sport
+        desc: Aletta is working out.
+      - room: beach
+        activity: swim
+        clothes: swimsuit
+        seasons: "1"
+        desc: Aletta is swimming in the pool.
+      - room: park
+        activity: run
+        clothes: sport
+        desc: Aletta is jogging around the park.
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Aletta seems to be having fun.
+

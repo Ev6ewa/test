@@ -1,0 +1,240 @@
+---
+name: lexi
+age: 19
+status: friend
+flags:
+ nodate: true
+ nokiss: true
+ pill: true
+piercings:
+  ears:
+    outfits:
+    - date
+    pierced: true
+  navel:
+    outfits:
+    - naked
+    - swimsuit
+    - sexyswimsuit
+    - underwear
+    - sport
+    - casual
+    pierced: true
+  clit:
+    outfits:
+    - naked
+    pierced: true
+  nipples:
+    outfits:
+    - naked
+    pierced: true
+  tongue:
+    expressions:
+    - happy
+    pierced: true
+  nose: {}
+birthday:
+- summer
+- 5
+traits:
+- slutty
+- dumb
+- trashy
+- poor
+- lazy
+desire_factors:
+- fitness
+- knowledge
+- guitar
+- pub
+- not_waterpark
+schedule:
+  default:
+    '1234':
+      '17':
+      - room: None
+        activity: none
+        clothes: underwear
+      '19':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Lexi is browsing through the clothes.
+      - room: sexshop
+        activity: shop
+        clothes: casual
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Lexi is drinking coffee.
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Lexi is smoking on a bench.
+      '24':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Lexi is having a drink.
+      - room: None
+        activity: sleep
+        clothes: underwear
+    '5':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '11':
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Lexi is drinking coffee.
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Lexi is browsing through the clothes.
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Lexi is smoking on a bench.
+      '14':
+      - room: park
+        activity: work
+        clothes: casual
+        desc: Lexi is standing under a tree I wonder what she is doing.
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Lexi is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Lexi is drinking coffee.
+      '16':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Lexi is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Lexi is drinking coffee.
+      - room: park
+        activity: work
+        clothes: casual
+        desc: Lexi is standing under a tree I wonder what she is doing.
+      '19':
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Lexi is drinking coffee.
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Lexi is browsing through the clothes.
+      - room: park
+        activity: work
+        clothes: casual
+        desc: Lexi is standing under a tree I wonder what she is doing.
+    '6':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '11':
+      - room: park
+        activity: work
+        clothes: casual
+        desc: Lexi is standing under a tree I wonder what she is doing.
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Lexi is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Lexi is drinking coffee.
+      '14':
+      - room: mall
+        activity: shop
+        clothes: casual
+        desc:
+        - Lexi is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Lexi is drinking coffee.
+      - room: park
+        activity: work
+        clothes: casual
+        desc: Lexi is standing under a tree I wonder what she is doing.
+      '16':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Lexi is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Lexi is drinking coffee.
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Lexi is jogging around the park.
+      '18':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Lexi is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Lexi is drinking coffee.
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Lexi is jogging around the park.
+      '21':
+      - room: None
+        activity: None
+        clothes: underwear
+      '23':
+      - room: nightclub
+        activity: dance
+        clothes: date
+        desc:
+        - Lexi is dancing.
+    '7':
+      '5':
+      - room: nightclub
+        activity: dance
+        clothes: date
+        desc:
+        - Lexi is dancing.
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '10':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '18':
+      - room: park
+        activity: work
+        clothes: casual
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Lexi seems to be having fun.
+

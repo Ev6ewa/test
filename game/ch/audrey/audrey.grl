@@ -1,0 +1,254 @@
+---
+name: audrey
+age: 24
+status: coworker
+flags:
+ nodate: true
+ nokiss: true
+piercings:
+  ears:
+    outfits:
+    - date
+    pierced: true
+  navel:
+    outfits:
+    - naked
+    - swimsuit
+    - sexyswimsuit
+    - underwear
+    - sport
+    - casual
+    - work
+    - date
+    - panties
+    pierced: true
+  clit:
+    outfits:
+    - naked
+    - underwear
+    - panties
+  nipples:
+    outfits:
+    - naked
+    - underwear
+    - panties
+  tongue:
+    expressions:
+    - happy
+    pierced: true
+  nose: {}
+outfits:
+  - naked
+  - casual
+  - date
+  - panties
+  - sport
+  - swimsuit
+  - underwear
+  - work
+  - wedding
+  - cosplay
+birthday:
+- summer
+- 16
+traits:
+- princess
+- submissive
+- flirty
+- rebel
+desire_factors:
+- fitness
+- charm
+- martial_arts
+- money
+- purse
+- purse
+- clothes
+- sextoy
+- waterpark
+- not_home
+schedule:
+  default:
+    '1245':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '17':
+      - room: office
+        activity: work
+        clothes: work
+      '19':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+      - room: sexshop
+        activity: shop
+        clothes: casual
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      - room: gym
+        activity: train
+        clothes: sport
+      - room: waterpark
+        activity: swim
+        clothes: swimsuit
+        seasons: "01"
+      - room: park
+        activity: run
+        clothes: sport
+      '24':
+      - room: pub
+        activity: drink
+        clothes: casual
+      - room: None
+        activity: None
+        clothes: underwear
+    '6':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '11':
+      - room: gym
+        activity: train
+        clothes: sport
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      - room: waterpark
+        activity: swim
+        clothes: swimsuit
+        seasons: "01"
+      - room: park
+        activity: run
+        clothes: sport
+      '14':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      - room: gym
+        activity: train
+        clothes: sport
+      - room: waterpark
+        activity: swim
+        clothes: swimsuit
+        seasons: "01"
+      - room: park
+        activity: run
+        clothes: sport
+      '16':
+      - room: waterpark
+        activity: swim
+        clothes: swimsuit
+        seasons: "01"
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      - room: gym
+        activity: train
+        clothes: sport
+      - room: park
+        activity: run
+        clothes: sport
+      '18':
+      - room: park
+        activity: run
+        clothes: sport
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      - room: gym
+        activity: train
+        clothes: sport
+      - room: waterpark
+        activity: swim
+        clothes: swimsuit
+        seasons: "01"
+      '21':
+      - room: None
+        activity: None
+        clothes: underwear
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+      - room: nightclub
+        activity: dance
+        clothes: date
+    '7':
+      '5':
+      - room: nightclub
+        activity: dance
+        clothes: date
+        desc:
+        - Audrey is dancing.
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '10':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '12':
+      - room: gym
+        activity: train
+        clothes: sport
+      - room: waterpark
+        activity: swim
+        clothes: swimsuit
+        seasons: "01"
+      - room: park
+        activity: run
+        clothes: sport
+      '14':
+      - room: park
+        activity: run
+        clothes: sport
+      - room: gym
+        activity: train
+        clothes: sport
+      - room: waterpark
+        activity: swim
+        clothes: swimsuit
+        seasons: "01"
+      '16':
+      - room: waterpark
+        activity: swim
+        clothes: swimsuit
+        seasons: "01"
+      - room: gym
+        activity: train
+        clothes: sport
+      - room: park
+        activity: run
+        clothes: sport
+      '18':
+      - room: gym
+        activity: train
+        clothes: sport
+      - room: waterpark
+        activity: swim
+        clothes: swimsuit
+        seasons: "01"
+      - room: park
+        activity: run
+        clothes: sport
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+

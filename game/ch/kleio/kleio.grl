@@ -1,0 +1,232 @@
+---
+name: kleio
+age: 20
+status: friend
+flags:
+ nodate: true
+ nokiss: true
+ lesbian: 5
+piercings:
+  ears:
+    outfits:
+    - date
+    pierced: true
+  navel:
+    outfits:
+    - naked
+    - swimsuit
+    - sexyswimsuit
+    - underwear
+    - sport
+    pierced: true
+  clit:
+    outfits:
+    - naked
+  nipples:
+    outfits:
+    - naked
+  tongue:
+    expressions:
+    - happy
+  nose:
+    pierced: true
+birthday:
+- winter
+- 15
+pubes: false
+traits:
+- rebel
+- guitar
+- music
+desire_factors:
+- fitness
+- knowledge
+- guitar
+- pub
+- not_mall
+schedule:
+  default:
+    '124':
+      '17':
+      - room: None
+        activity: none
+        clothes: underwear
+      '19':
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Kleio is drinking coffee.
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Kleio is browsing through the clothes.
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Kleio is smoking on a bench.
+      '24':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Kleio is having a drink.
+      - room: None
+        activity: sleep
+        clothes: underwear
+    '35':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '11':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Kleio is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Kleio is drinking coffee.
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Kleio is smoking on a bench.
+      '14':
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Kleio is smoking on a bench.
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Kleio is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Kleio is drinking coffee.
+      '16':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Kleio is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Kleio is drinking coffee.
+      '17':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Kleio is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Kleio is drinking coffee.
+      - room: park
+        activity: smoke
+        clothes: casual
+      '20':
+      - room: studio
+        activity: practice
+        clothes: casual
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+    '6':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '11':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Kleio is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Kleio is drinking coffee.
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Kleio is smoking on a bench.
+      '14':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Kleio is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Kleio is drinking coffee.
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Kleio is jogging around the park.
+      '16':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Kleio is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Kleio is drinking coffee.
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Kleio is jogging around the park.
+      '18':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Kleio is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Kleio is drinking coffee.
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Kleio is jogging around the park.
+      '21':
+      - room: None
+        activity: None
+        clothes: underwear
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Kleio is drinking.
+    '7':
+      '5':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '10':
+      - room: None
+        activity: None
+        clothes: underwear
+      '18':
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Kleio is jogging around the park.
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Kleio seems to be having fun.
+

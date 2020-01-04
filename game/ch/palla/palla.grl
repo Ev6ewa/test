@@ -1,0 +1,221 @@
+---
+name: palla
+age: 26
+status: friend
+flags:
+ nodate: true
+ nokiss: true
+piercings:
+  ears:
+    outfits:
+    - date
+    - casual
+    pierced: true
+  navel:
+    outfits:
+    - naked
+    - sexyswimsuit
+    - underwear
+    - sport
+    - panties
+    - sexyswimsuit2
+    pierced: true
+  clit:
+    outfits:
+    - naked
+    - underwear
+    - panties
+    - sexyswimsuit2
+  nipples:
+    outfits:
+    - naked
+    - underwear
+    - panties
+    - sexyswimsuit2
+  tongue:
+    expressions:
+    - happy
+    - blush
+    pierced: true
+  lips:
+    expressions:
+    - happy
+    - blush
+    - angry
+    - normal
+    - sad
+  nose: {}
+outfits:
+  - naked
+  - casual
+  - date
+  - panties
+  - sport
+  - swimsuit
+  - sexyswimsuit
+  - sexyswimsuit2
+  - underwear
+  - panties
+birthday:
+- fall
+- 14
+traits:
+- princess
+- submissive
+- bitchy
+desire_factors:
+- charm
+- not_home
+- dance
+- nightclub
+- flowers
+- sweets
+schedule:
+  default:
+    '1245':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '17':
+      - room: mall
+        activity: shopping
+        clothes: casual
+      '19':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+      - room: sexshop
+        activity: shop
+        clothes: casual
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      - room: gym
+        activity: train
+        clothes: sport
+      '24':
+      - room: None
+        activity: None
+        clothes: underwear
+    '6':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '11':
+      - room: gym
+        activity: train
+        clothes: sport
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      '14':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      - room: gym
+        activity: train
+        clothes: sport
+      - room: waterpark
+        activity: swim
+        clothes: swimsuit
+        seasons: "01"
+      - room: park
+        activity: run
+        clothes: sport
+      '16':
+      - room: waterpark
+        activity: swim
+        clothes: swimsuit
+        seasons: "01"
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      - room: gym
+        activity: train
+        clothes: sport
+      - room: park
+        activity: run
+        clothes: sport
+      '18':
+      - room: park
+        activity: run
+        clothes: sport
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      - room: gym
+        activity: train
+        clothes: sport
+      '21':
+      - room: None
+        activity: None
+        clothes: underwear
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+      - room: nightclub
+        activity: dance
+        clothes: date
+        desc:
+    '7':
+      '5':
+      - room: nightclub
+        activity: dance
+        clothes: date
+        desc:
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '10':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '12':
+      - room: gym
+        activity: train
+        clothes: sport
+      '14':
+      - room: gym
+        activity: train
+        clothes: sport
+      '16':
+      - room: gym
+        activity: train
+        clothes: sport
+      - room: park
+        activity: run
+        clothes: sport
+      '18':
+      - room: gym
+        activity: train
+        clothes: sport
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+  hiding:
+    '1234567':
+      '24':
+      - room: None
+        activity: sleep
+        clothes: underwear
+

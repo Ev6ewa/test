@@ -1,0 +1,232 @@
+---
+name: morgan
+age: 25
+status: friend
+flags:
+ lesbian: 5
+ male: 100
+piercings:
+  ears:
+    outfits:
+    - date
+  navel:
+    outfits:
+    - naked
+    - sexyswimsuit
+    - sweatpants
+    - bluebikinibottom
+    - redbluebikinibottom
+  clit:
+    outfits:
+    - naked
+  nipples:
+    outfits:
+    - naked
+  tongue:
+    expressions:
+    - happy
+  nose: {}
+birthday:
+- winter
+- 15
+pubes: false
+traits:
+- rebel
+- music
+desire_factors:
+- fitness
+- knowledge
+- pub
+- not_mall
+outfits:
+- naked
+- casual
+- date
+- swimsuit
+- sexyswimsuit
+- sport
+expressions:
+- angry
+- blush
+- happy
+- normal
+- surprised
+schedule:
+  default:
+    '1234':
+      '17':
+      - room: None
+        activity: none
+        clothes: underwear
+      '19':
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Morgan is drinking coffee.
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Morgan is browsing through the clothes.
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Morgan is smoking on a bench.
+      '24':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Morgan is having a drink.
+      - room: None
+        activity: sleep
+        clothes: underwear
+    '5':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '11':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Morgan is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Morgan is drinking coffee.
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Morgan is smoking on a bench.
+      '14':
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Morgan is smoking on a bench.
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Morgan is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Morgan is drinking coffee.
+      '16':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Morgan is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Morgan is drinking coffee.
+      '19':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Morgan is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Morgan is drinking coffee.
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Morgan is jogging around the park.
+    '6':
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '11':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Morgan is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Morgan is drinking coffee.
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Morgan is smoking on a bench.
+      '14':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Morgan is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Morgan is drinking coffee.
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Morgan is jogging around the park.
+      '16':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Morgan is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Morgan is drinking coffee.
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Morgan is jogging around the park.
+      '18':
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Morgan is browsing through the clothes.
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+        desc: Morgan is drinking coffee.
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Morgan is jogging around the park.
+      '21':
+      - room: None
+        activity: None
+        clothes: underwear
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Morgan is drinking.
+    '7':
+      '5':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '10':
+      - room: None
+        activity: None
+        clothes: underwear
+      '18':
+      - room: park
+        activity: smoke
+        clothes: casual
+        desc: Morgan is jogging around the park.
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Morgan seems to be having fun.
+

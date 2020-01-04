@@ -1,0 +1,229 @@
+---
+name: samantha
+age: 25
+flags:
+ nodate: true
+ pubes: false
+status: friend
+piercings:
+  ears:
+    outfits:
+    - date
+    pierced: true
+  navel:
+    outfits:
+    - naked
+    - swimsuit
+    - underwear
+    - sport
+    pierced: true
+  clit:
+    outfits:
+    - naked
+    pierced: true
+  nipples:
+    outfits:
+    - naked
+    pierced: true
+  tongue:
+    expressions:
+    - happy
+    pierced: true
+  nose: {}
+birthday:
+- summer
+- 8
+traits:
+- playful
+- gourmand
+- family
+desire_factors:
+- charm
+- fitness
+- dance
+- clothes
+- underwear
+- cinema
+- not_highclassrestaurant
+- not_shooting
+- not_shooting
+schedule:
+  default:
+    '1245':
+      '1':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Samantha is partying.
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '19':
+      - room: bakery
+        activity: work
+        clothes: casual
+        desc:
+        - Samantha is working.
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Samantha is discussing with a friend.
+      - room: None
+        activity: sleep
+        clothes: underwear
+    '3':
+      '1':
+      - room: pub
+        activity: play
+        clothes: casual
+        desc:
+        - Samantha is playing darts.
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '9':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '12':
+      - room: bakery
+        activity: work
+        clothes: casual
+        desc:
+        - Samantha is working.
+      '14':
+      - room: gym
+        activity: yoga
+        clothes: sport
+        desc:
+        - Samantha is doing yoga, what a cute ass.
+      - room: coffehop
+        activity: eating
+        clothes: casual
+        desc:
+        - Samantha is having lunch.
+      - room: None
+        activity: None
+        clothes: casual
+      '16':
+      - room: park
+        activity: work
+        clothes: casual
+        desc:
+        - Samantha is sitting at a table, studying.
+      '18':
+      - room: park
+        activity: work
+        clothes: casual
+        desc:
+        - Samantha is sitting at a table, studying.
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Samantha is shopping around.
+      - room: bookstore
+        activity: shop
+        clothes: casual
+        desc:
+        - Samantha is shopping around.
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Samantha is discussing with a friend.
+    '6':
+      '3':
+      - room: pub
+        activity: play
+        clothes: casual
+        desc:
+        - Samantha is playing darts.
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '10':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '12':
+      - room: gym
+        activity: yoga
+        clothes: sport
+        seasons: '23'
+        desc:
+        - Samantha is doing yoga.
+      - room: waterpark
+        activity: swim
+        clothes: swimsuit
+        seasons: '01'
+        desc:
+        - Samantha is swimming.
+      '16':
+      - room: park
+        activity: work
+        clothes: casual
+        desc:
+        - Samantha is sitting at a table, studying.
+      '18':
+      - room: mall
+        activity: shop
+        clothes: casual
+        desc:
+        - Samantha is shopping around.
+      - room: park
+        activity: work
+        clothes: casual
+        desc:
+        - Samantha is sitting at a table, studying.
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+        desc:
+        - Samantha is shopping around.
+      - room: bookstore
+        activity: shop
+        clothes: casual
+        desc:
+        - Samantha is shopping around.
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Samantha is discussing with a friend.
+    '7':
+      '5':
+      - room: nightclub
+        activity: dance
+        clothes: date
+        desc:
+        - Samantha is dancing.
+      '14':
+      - room: None
+        activity: sleep
+        clothes: underwear
+      '18':
+      - room: park
+        activity: rest
+        clothes: casual
+        desc:
+        - Samantha is sitting on a bench, reading.
+      - room: waterpark
+        activity: swim
+        clothes: swimsuit
+        seasons: '01'
+        desc:
+        - Samantha is swimming.
+      '23':
+      - room: pub
+        activity: drink
+        clothes: casual
+        desc:
+        - Samantha is discussing with a friend.
+

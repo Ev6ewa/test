@@ -1,0 +1,254 @@
+---
+name: cassidy
+age: 23
+status: friend
+min_sub: -100
+piercings:
+  ears:
+    outfits:
+    - date
+    pierced: true
+  navel:
+    outfits:
+    - naked
+    - swimsuit
+    - sexyswimsuit
+    - sport
+    - bottomless
+  clit:
+    outfits:
+    - naked
+    - bottomless
+  nipples:
+    outfits:
+    - naked
+    - topless
+  tongue:
+    expressions:
+    - happy
+  lips:
+    expressions:
+      - happy
+      - sad
+      - angry
+      - cry
+      - normal
+  eyebrow:
+    expressions:
+      - happy
+      - sad
+      - angry
+      - cry
+      - normal
+  nose: {}
+birthday:
+- spring
+- 9
+traits:
+- spoiled
+- princess
+- playful
+- dominant
+desire_factors:
+- dance
+- charm
+- fitness
+- not_home
+- not_park
+- beach
+- flowers
+- sweets
+schedule:
+  default:
+    '1234':
+      '11':
+      - room: None
+        activity: sleep
+        clothes: naked
+      '17':
+      - room: beach
+        activity: sunbath
+        clothes: swimsuit
+        seasons: "1"
+      - room: None
+        activity: sleep
+        clothes: naked
+      '19':
+      - room: beach
+        activity: sunbath
+        clothes: swimsuit
+        seasons: "1"
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+      - room: sexshop
+        activity: shop
+        clothes: casual
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      - room: gym
+        activity: train
+        clothes: sport
+      '24':
+      - room: nightclub
+        activity: dance
+        clothes: date
+      - room: None
+        activity: None
+        clothes: naked
+    '567':
+      '24':
+        - room: None
+          activity: traveling
+          clothes: casual
+  assistant:
+    '12345':
+      '11':
+      - room: None
+        activity: sleep
+        clothes: naked
+      '19':
+      - room: personal
+        activity: play
+        clothes: casual
+      '21':
+      - room: beach
+        activity: sunbath
+        clothes: swimsuit
+        seasons: "1"
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+      - room: sexshop
+        activity: shop
+        clothes: casual
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      - room: gym
+        activity: train
+        clothes: sport
+      '24':
+      - room: nightclub
+        activity: dance
+        clothes: date
+      - room: None
+        activity: None
+        clothes: naked
+    '6':
+      '3':
+      - room: nightclub
+        activity: dance
+        clothes: date
+      '11':
+      - room: None
+        activity: sleep
+        clothes: naked
+      '14':
+      - room: beach
+        activity: sunbath
+        clothes: swimsuit
+        seasons: "1"
+      - room: gym
+        activity: train
+        clothes: sport
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      '16':
+      - room: sexshop
+        activity: shop
+        clothes: casual
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+      - room: cinema
+        activity: watch
+        clothes: casual
+      '18':
+      - room: beach
+        activity: sunbath
+        clothes: swimsuit
+        seasons: "1"
+      - room: sexshop
+        activity: shop
+        clothes: casual
+      - room: clothesshop
+        activity: shop
+        clothes: casual
+      - room: coffeeshop
+        activity: shop
+        clothes: casual
+      - room: gym
+        activity: train
+        clothes: sport
+      '21':
+      - room: None
+        activity: None
+        clothes: naked
+      '23':
+      - room: nightclub
+        activity: dance
+        clothes: date
+    '7':
+      '5':
+      - room: nightclub
+        activity: dance
+        clothes: date
+      - room: None
+        activity: sleep
+        clothes: naked
+      '10':
+      - room: None
+        activity: sleep
+        clothes: naked
+      '12':
+      - room: beach
+        activity: sunbath
+        clothes: swimsuit
+        seasons: "1"
+      - room: gym
+        activity: train
+        clothes: sport
+      - room: None
+        activity: sleep
+        clothes: naked
+      '14':
+      - room: beach
+        activity: sunbath
+        clothes: swimsuit
+        seasons: "1"
+      - room: gym
+        activity: train
+        clothes: sport
+      '16':
+      - room: beach
+        activity: sunbath
+        clothes: swimsuit
+        seasons: "1"
+      - room: gym
+        activity: train
+        clothes: sport
+      '18':
+      - room: beach
+        activity: sunbath
+        clothes: swimsuit
+        seasons: "1"
+      - room: gym
+        activity: train
+        clothes: sport
+      '23':
+      - room: nightclub
+        activity: dance
+        clothes: date
+      - room: None
+        activity: None
+        clothes: naked
+
